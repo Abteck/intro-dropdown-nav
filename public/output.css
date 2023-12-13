@@ -797,7 +797,7 @@ video {
 }
 
 .arrow-down {
-  background-image: url("../public/images/icon-arrow-down.svg");
+  background-image: url("images/icon-arrow-down.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 10px;
@@ -806,7 +806,7 @@ video {
 }
 
 .arrow-up {
-  background-image: url("../public/images/icon-arrow-up.svg");
+  background-image: url("images/icon-arrow-up.svg");
   background-repeat: no-repeat;
   background-position: center;
   width: 10px;
